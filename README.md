@@ -1,1 +1,1 @@
-# E6DiscordBot
+# Discord bot for e621 posts or something
