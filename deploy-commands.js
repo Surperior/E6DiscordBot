@@ -64,7 +64,6 @@ const commands = [
 ];
 
 const rest = new REST().setToken("");
-//X2YO3VRERsHqwhfhRMs-TrkvPbILG_Bv
 (async () => {
   await rest.put(
     Routes.applicationCommands(""),
